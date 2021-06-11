@@ -1,4 +1,7 @@
- #include<fstream>
+ /*This file is used to delete all the input and output files generated during every execution*/
+
+
+#include<fstream>
  #include<stdio.h>
  #include<set>
  #include<sstream>
